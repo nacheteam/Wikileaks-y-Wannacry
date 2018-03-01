@@ -1,0 +1,11 @@
+Tal y como se cita en \cite{smb}, los ransomware no se suelen extender rápidamente. Amenazas como WannaCrypt utilizan normalmente emails como vector del ataque, dejando a los usuarios la descarga y ejecución de los archivos maliciosos (de forma camuflada). Sin embargo, en este caso, los desarrolladores del malware usaron el código del exploit de la vulnerabilidad SMB 'Eternal Blue', (SMBv1, que permite a atacantes remotos ejecutar código a través de paquetes). Esta vulnerabilidad fue resuelta en el boletín de seguridad de Microsoft 'MS17-010' (\cite{microsoft}), publicada el 14 de marzo de 2017. \\
+
+El código usado por WannaCrypt fue diseñado para trabajar con todos los sistemas operativos Windows, aprovechándose de que la mayoría de ellos han permanecido vulnerables al fallo de SMB. Cabe destacar que no todos los sistemas operativos han sufrido el ataque con la misma virulencia, ya que por ejemplo Windows 10 dispone de un sistema forzoso de actualizaciones a menos que sea desactivado por el usuario. Esto ha hecho que dicha versión se haya parcheado mucho antes y con mayor efectividad.
+
+%El código usado por WannaCrypt fue diseñado para trabajar exclusivamente contra sistemas Windows 7 y Windows Server 2008 (incluso anteriores) sin parche contra esta vulnerabilidad. \\
+
+No se han encontrado pruebas concluyentes sobre cuál fue el primer detonante del malware, pero existen dos escenarios posibles: \\
+\begin{itemize}
+	\item A través de emails diseñados para que los usuarios ejecutaran el malware y activan el contagio con el exploit SMB.
+	\item Contagio a través del exploit SMB cuando un computador sin parche de seguridad está conectado a otras máquinas infectadas.
+\end{itemize}

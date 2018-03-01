@@ -1,0 +1,87 @@
+This is BibTeX, Version 0.99d (TeX Live 2015/Debian)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: vault7.aux
+The style file: plain.bst
+Database file #1: referencias.bib
+I was expecting a `,' or a `}'---line 148 of file referencias.bib
+ :  year = "
+ :          Consultado el 26 de mayo de 2017",
+I'm skipping whatever remains of this entry
+Warning--to sort, need author or key in scribbles
+Warning--to sort, need author or key in web-beacon-tag
+Warning--to sort, need author or key in weeping-angel
+Warning--to sort, need author or key in hive
+Warning--to sort, need author or key in symantec
+Warning--to sort, need author or key in grasshopper
+Warning--to sort, need author or key in marble-framework
+Warning--to sort, need author or key in dark-matter
+Warning--to sort, need author or key in wikileaks-press-release
+Warning--to sort, need author or key in releases-documents
+Warning--to sort, need author or key in vault7-documents
+Warning--to sort, need author or key in vault7-submit
+Warning--to sort, need author or key in wikileaks-tor-submit
+Warning--to sort, need author or key in killswitch-situacion-4
+Warning--to sort, need author or key in killswitch-situacion-5
+Warning--to sort, need author or key in definicion-ransomware-2
+Warning--to sort, need author or key in definicion-ransomware-3
+Warning--to sort, need author or key in definicion-ransomware-4
+Warning--to sort, need author or key in wc-encrip
+Warning--to sort, need author or key in plataformas-contagio-2
+Warning--to sort, need author or key in plataformas-contagio-3
+Warning--to sort, need author or key in plataformas-contagio-1
+Warning--to sort, need author or key in plataformas-contagio-4
+Warning--to sort, need author or key in plataformas-contagio-5
+Warning--to sort, need author or key in smb
+Warning--to sort, need author or key in microsoft
+Warning--to sort, need author or key in killswitch-situacion-2
+Warning--to sort, need author or key in killswitch-situacion-1
+Warning--to sort, need author or key in killswitch-situacion-3
+Warning--to sort, need author or key in killswitch-situacion-6
+Warning--to sort, need author or key in vg
+Warning--to sort, need author or key in elhacker
+Warning--to sort, need author or key in b1
+Warning--to sort, need author or key in b2
+Warning--to sort, need author or key in b3
+Warning--to sort, need author or key in b4
+You've used 36 entries,
+            2118 wiz_defined-function locations,
+            574 strings with 7211 characters,
+and the built_in function-call counts, 5490 in all, are:
+= -- 467
+> -- 36
+< -- 0
++ -- 36
+- -- 0
+* -- 217
+:= -- 550
+add.period$ -- 36
+call.type$ -- 36
+change.case$ -- 108
+chr.to.int$ -- 0
+cite$ -- 72
+duplicate$ -- 252
+empty$ -- 829
+format.name$ -- 0
+if$ -- 1368
+int.to.chr$ -- 0
+int.to.str$ -- 36
+missing$ -- 0
+newline$ -- 111
+num.names$ -- 0
+pop$ -- 323
+preamble$ -- 1
+purify$ -- 72
+quote$ -- 0
+skip$ -- 289
+stack$ -- 0
+substring$ -- 180
+swap$ -- 36
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 144
+warning$ -- 36
+while$ -- 0
+width$ -- 38
+write$ -- 217
+(There was 1 error message)

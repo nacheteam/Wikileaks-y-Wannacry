@@ -1,0 +1,18 @@
+\select@language {spanish}
+\contentsline {section}{\numberline {1}Introducci\IeC {\'o}n}{3}
+\contentsline {section}{\numberline {2}Releases Vault 7}{3}
+\contentsline {subsection}{\numberline {2.1}Scribbles}{3}
+\contentsline {subsection}{\numberline {2.2}Weeping Angel}{3}
+\contentsline {subsection}{\numberline {2.3}Hive}{4}
+\contentsline {subsection}{\numberline {2.4}Grasshopper}{4}
+\contentsline {subsection}{\numberline {2.5}Marble Framework}{5}
+\contentsline {subsection}{\numberline {2.6}Dark Matter}{5}
+\contentsline {section}{\numberline {3}Obtenci\IeC {\'o}n de informaci\IeC {\'o}n de Wikileaks}{5}
+\contentsline {section}{\numberline {4}Obtenci\IeC {\'o}n de informaci\IeC {\'o}n de Wannacrypt0r}{6}
+\contentsline {section}{\numberline {5}Wannacry}{7}
+\contentsline {subsection}{\numberline {5.1}Definici\IeC {\'o}n de ransomware}{7}
+\contentsline {subsection}{\numberline {5.2}Funcionamiento de Wannacrypt0r}{7}
+\contentsline {subsection}{\numberline {5.3}Plataformas afectadas y tipos de contagio}{7}
+\contentsline {subsection}{\numberline {5.4}Expansi\IeC {\'o}n del virus a trav\IeC {\'e}s de SMB}{8}
+\contentsline {subsection}{\numberline {5.5}Killswitch, situaci\IeC {\'o}n actual de Wannnacry}{8}
+\contentsline {subsection}{\numberline {5.6}Relaci\IeC {\'o}n con Wikileaks y beneficios obtenidos}{8}

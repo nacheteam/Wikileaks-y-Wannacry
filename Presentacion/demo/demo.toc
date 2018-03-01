@@ -1,0 +1,4 @@
+\beamer@endinputifotherversion {3.36pt}
+\select@language {spanish}
+\beamer@sectionintoc {1}{Releases Vault-7}{3}{0}{1}
+\beamer@sectionintoc {2}{Wannacry}{42}{0}{2}

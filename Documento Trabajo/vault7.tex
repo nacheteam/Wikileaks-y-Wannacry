@@ -1,0 +1,138 @@
+\documentclass[a4paper,10pt]{article}
+
+\usepackage{url}
+\usepackage[spanish]{babel}
+\usepackage[utf8]{inputenc}
+\usepackage[vmargin=2.5cm,hmargin=3cm]{geometry}
+\usepackage{enumerate}
+\usepackage{amsmath}
+\usepackage{eurosym}
+\usepackage{extsizes}
+\usepackage{amssymb}
+\usepackage{dsfont}
+\usepackage{graphicx}
+\usepackage{cancel}
+\usepackage[usenames]{color}
+\usepackage[dvipsnames]{xcolor}
+\usepackage{accents}
+\usepackage{flushend}
+\setlength\parindent{0pt}
+%----------------------------------------------------------------------------------------
+%	TÍTULO Y DATOS DEL ALUMNO
+%----------------------------------------------------------------------------------------
+
+
+\title{\textbf{Vault 7-WikiLeaks y Wannacrypt0r}}
+\date{}
+\author{Ingeniería de Servidores\\ \\
+	\small Doble Grado en Ingeniería Informática y Matemáticas\\
+	\small ETSIIT, Universidad de Granada
+} 
+
+
+
+%----------------------------------------------------------------------------------------
+% DOCUMENTO
+%----------------------------------------------------------------------------------------
+
+\begin{document}
+
+
+\newpage %inserta un salto de página
+
+
+%---------------------------------------------------------------------------------%
+
+%                               Introducción                                      %
+
+%---------------------------------------------------------------------------------%
+
+\maketitle
+\vspace*{-1cm}
+\begin{center}\rule{0.9\textwidth}{0.1mm} \end{center}
+\begin{abstract}
+\input{Introduccion/introduccion.tex}
+\end{abstract}
+
+%---------------------------------------------------------------------------------%
+
+%                             Vault 7 Releases                                    %
+
+%---------------------------------------------------------------------------------%
+
+\section{Releases Vault 7}
+\subsection{Scribbles}
+\input{Releases/scribbles.tex}
+\subsection{Weeping Angel}
+\input{Releases/weeping-angel.tex}
+\subsection{Hive}
+\input{Releases/hive.tex}
+\subsection{Grasshopper}
+\input{Releases/grasshopper.tex}
+\subsection{Marble Framework}
+\input{Releases/marble-framework.tex}
+\subsection{Dark Matter}
+\input{Releases/dark-matter.tex}
+
+%---------------------------------------------------------------------------------%
+
+%                         Obtención de información                                %
+
+%---------------------------------------------------------------------------------%
+
+\section{Obtención de información de Wikileaks}
+\input{Obtencion-de-informacion/obtencion-informacion.tex}
+
+%---------------------------------------------------------------------------------%
+
+%                     Obtención de información Wannacry                           %
+%                             Análisis forense                                    %
+
+%---------------------------------------------------------------------------------%
+
+\section{Obtención de información de Wannacrypt0r}
+\input{Obtencion-de-informacion/wannacry.tex}
+
+%---------------------------------------------------------------------------------%
+
+%                                 Wannacry                                        %
+
+%---------------------------------------------------------------------------------%
+
+\section{Wannacry}
+\subsection{Definición de ransomware}
+\input{Wannacry/punto1.tex}
+\subsection{Funcionamiento de Wannacrypt0r}
+\label{Funcionamiento-Wannacry}
+\input{Wannacry/punto2.tex}
+\subsection{Plataformas afectadas y tipos de contagio}
+\input{Wannacry/punto3.tex}
+\subsection{Expansión del virus a través de SMB}
+\input{Wannacry/punto4.tex}
+\subsection{Killswitch, situación actual de Wannnacry}
+\label{KillSwitch}
+\input{Wannacry/punto5.tex}
+\subsection{Relación con Wikileaks y beneficios obtenidos}
+\input{Wannacry/punto6.tex}
+
+%---------------------------------------------------------------------------------%
+
+%                               Conclusiones                                      %
+
+%---------------------------------------------------------------------------------%
+
+\section{Conclusiones}
+\input{Conclusiones/conclusiones.tex}
+
+%---------------------------------------------------------------------------------%
+
+%                               Bibliografía                                      %
+
+%---------------------------------------------------------------------------------%
+
+\newpage
+
+\bibliography{referencias} %archivo referencias.bib que contiene las entradas 
+\bibliographystyle{plain} % hay varias formas de citar
+
+\end{document}
